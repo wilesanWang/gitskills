@@ -1,0 +1,49 @@
+2014-01-12 14:12:00 SUCCESS :日志记录：2014－01－12
+2014-01-12 14:12:00 SUCCESS :查询数据进度条初始化成功！
+2014-01-12 14:12:00 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2014-01-12 14:12:00 SUCCESS :开始运行！
+2014-01-12 14:12:00 SUCCESS :初始化特殊属性成功
+2014-01-12 14:12:00 SUCCESS :初始化控件成功
+2014-01-12 14:12:00 SUCCESS :初始化TCP成功
+2014-01-12 14:12:00 SUCCESS :退出成功！
+
+2014-01-12 14:14:17 SUCCESS :查询数据进度条初始化成功！
+2014-01-12 14:14:17 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2014-01-12 14:14:17 SUCCESS :开始运行！
+2014-01-12 14:14:17 SUCCESS :初始化特殊属性成功
+2014-01-12 14:14:17 SUCCESS :初始化控件成功
+2014-01-12 14:14:17 SUCCESS :初始化TCP成功
+2014-01-12 14:14:17 SUCCESS :退出成功！
+
+2014-01-12 14:17:48 SUCCESS :查询数据进度条初始化成功！
+2014-01-12 14:17:48 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2014-01-12 14:17:48 SUCCESS :开始运行！
+2014-01-12 14:17:48 SUCCESS :初始化特殊属性成功
+2014-01-12 14:17:48 SUCCESS :初始化控件成功
+2014-01-12 14:17:48 SUCCESS :初始化TCP成功
+2014-01-12 14:17:48 SUCCESS :退出成功！
+
+2014-01-12 14:18:33 SUCCESS :查询数据进度条初始化成功！
+2014-01-12 14:18:33 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2014-01-12 14:18:33 SUCCESS :开始运行！
+2014-01-12 14:18:33 SUCCESS :初始化特殊属性成功
+2014-01-12 14:18:33 SUCCESS :初始化控件成功
+2014-01-12 14:18:33 SUCCESS :初始化TCP成功
+2014-01-12 14:18:33 SUCCESS :退出成功！
+
+2014-01-12 14:20:34 SUCCESS :查询数据进度条初始化成功！
+2014-01-12 14:20:34 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2014-01-12 14:20:34 SUCCESS :开始运行！
+2014-01-12 14:20:34 SUCCESS :初始化特殊属性成功
+2014-01-12 14:20:34 SUCCESS :初始化控件成功
+2014-01-12 14:20:34 SUCCESS :初始化TCP成功
+2014-01-12 14:20:34 SUCCESS :退出成功！
+
+2014-01-12 14:22:42 SUCCESS :查询数据进度条初始化成功！
+2014-01-12 14:22:42 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2014-01-12 14:22:42 SUCCESS :开始运行！
+2014-01-12 14:22:42 SUCCESS :初始化特殊属性成功
+2014-01-12 14:22:42 SUCCESS :初始化控件成功
+2014-01-12 14:22:42 SUCCESS :初始化TCP成功
+2014-01-12 14:22:42 SUCCESS :退出成功！
+

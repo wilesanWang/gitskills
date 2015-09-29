@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST_Project", "BST_Project\BST_Project.csproj", "{C0108695-200D-4C56-8E39-76838A54FA45}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{DEC2996A-AD6C-45B7-8635-E2FD2AAD38AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0108695-200D-4C56-8E39-76838A54FA45}.Debug|x86.ActiveCfg = Release|x86
+		{C0108695-200D-4C56-8E39-76838A54FA45}.Debug|x86.Build.0 = Release|x86
+		{C0108695-200D-4C56-8E39-76838A54FA45}.Release|x86.ActiveCfg = Release|x86
+		{C0108695-200D-4C56-8E39-76838A54FA45}.Release|x86.Build.0 = Release|x86
+		{DEC2996A-AD6C-45B7-8635-E2FD2AAD38AD}.Debug|x86.ActiveCfg = Release
+		{DEC2996A-AD6C-45B7-8635-E2FD2AAD38AD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

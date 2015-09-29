@@ -1,0 +1,9 @@
+2013-11-28 15:45:45 SUCCESS :日志记录：2013－11－28
+2013-11-28 15:45:45 SUCCESS :查询数据进度条初始化成功！
+2013-11-28 15:45:45 ERROR :TCP初始化出错!\n出错信息：A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.12.6.10:2000
+2013-11-28 15:45:45 SUCCESS :开始运行！
+2013-11-28 15:45:45 SUCCESS :初始化特殊属性成功
+2013-11-28 15:45:45 SUCCESS :初始化控件成功
+2013-11-28 15:45:45 SUCCESS :初始化TCP成功
+2013-11-28 15:45:45 SUCCESS :退出成功！
+
